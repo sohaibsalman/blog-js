@@ -1,16 +1,16 @@
 ---
-name: Tails Azimuth
+name: Sohaib Salman
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Software Engineer
+company: Rolustech
+email: sohaib.it40@gmail.com
+skype: https://join.skype.com/invite/rjpffvUldsGk
+linkedin: https://www.linkedin.com/in/sohaibsalman/
+github: https://github.com/sohaibsalman
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+A passionate Software Engineer and self-learner from Pakistan who loves to develop things. Specializing in Full-Stack Web Applications Development, I love to work with modern cutting-edge tools and technologies. I have professional working experience in .NET, C#, JavaScript, TypeScript, React, Angular, Node and PHP with excellent problem-solving and analytical skills, along with some hands-on experience with Git, GitHub, AWS, Docker, and Kubernetes.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+Currently working as a Software Engineer at Rolustech where my responsibilities include developing web applications as per the business requirements while writing highly maintainable, extendable, and efficient code.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I like to challenge myself with the things I have learned, and love to explore and learn new concepts, tools, and technologies.
