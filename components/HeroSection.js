@@ -2,8 +2,8 @@ import Image from '@/components/Image'
 
 function HeroSection() {
   return (
-    <div className="items-start space-y-2 pt-8 pb-10 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
-      <div className="col-span-2 flex flex-row flex-wrap items-center">
+    <div className="items-start space-y-2 pt-8 pb-10">
+      <div className="flex max-w-2xl flex-row flex-wrap items-center">
         <Image
           src="/static/images/avatar.png"
           alt="avatar"
